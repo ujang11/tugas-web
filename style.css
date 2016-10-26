@@ -1,0 +1,78 @@
+body {margin: 0; font-family:sans-serif;}
+header {background:blue;}
+header #contact p {color: #fff; float: left;margin-left: 30px }
+header #contact p a{text-decoration: none;color:white;}
+header #contact img{
+	width: 20px
+}
+
+header nav{
+	width: 100%;
+	display: flex;justify-content: center; left;
+    background: #fff	
+}
+header nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 16px;
+    font-size: 16px;	
+}
+header nav a{
+    color: #000;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;marker-start: 	
+}
+header nav ul li{
+	float: left;
+}
+ header nav ul img{
+	width:80px;
+}
+img{
+	width: 100%;
+}
+#pengumuman{
+	text-align: 
+	center;background: blue;
+	padding: 10PX;
+    color: #fff;
+}
+h2 {
+	text-align: center;
+}
+#vidio{
+	width: 100%; margin: 30px;
+}
+#vidio .terbaru .banner {
+	width: 33%;
+	float: left;
+	margin-left: 3px; 
+}
+#vidio .terbaru .banner a{
+	text-decoration: none;color: #fff;
+}
+footer{
+	background: #292929;
+	color: #fff;
+}
+
+footer ul{
+	float: left;
+}
+footer ul li a{
+	text-decoration: none;
+	color: #121212;
+}
+footer ul li a{
+color: #000;
+}
+#headdata{
+	background: #292929;
+	padding: 20px;
+	margin-bottom: 30px;
+	color: #fff;
+}
+table {
+	text-align: center;
+}
